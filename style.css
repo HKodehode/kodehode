@@ -1,0 +1,34 @@
+*{
+margin: 0;
+box-sizing: border-box 
+
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+
+a{
+    text-decoration: none;
+    color: beige;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+a:hover, 
+a:focus { 
+    color: aquamarine
+}
+
+body {
+    min-height: 400px;
+    background-color: hsl(127, 87%, 26%);
+}
+
+article {
+    border: solid 1px black;
+    width: 300px
+    margin-left 
+}
